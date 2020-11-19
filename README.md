@@ -26,5 +26,15 @@
   - [浮点型](https://www.quanxiaoha.com/golang/golang-data-type-float.html)
   - [布尔型 bool](https://www.quanxiaoha.com/golang/golang-data-type-bool.html)
   - [字符串](https://www.quanxiaoha.com/golang/golang-data-type-string.html)
+  - [字符（byte与rune）](https://www.quanxiaoha.com/golang/golang-data-type-byte-rune.html)
+  - [常量](https://www.quanxiaoha.com/golang/golang-const.html)
+  - [枚举（iota自增）](https://www.quanxiaoha.com/golang/golang-enum-iota.html)
+  - [指针](https://www.quanxiaoha.com/golang/golang-pointer.html)
+  
+## 四、Go 语言容器
 
+  - 4.1 [数组](https://www.quanxiaoha.com/golang/golang-array.html)
+  - 4.2 [切片（Slice）](https://www.quanxiaoha.com/golang/golang-slice.html)
+  - 4.3 [字典 (Map)](https://www.quanxiaoha.com/golang/golang-map.html)
+  
 持续更新中 ...
